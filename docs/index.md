@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 🍕 了解我们
-      link: https://go.plvideo.cn/front/video/view?vid=dc837a49a8daa0d81235dfee6732829c_d
+      link: https://go.plvideo.cn/front/video/
     - theme: alt
       text: 🍺 即将期待
       link: /images/CoffeeApp.png
